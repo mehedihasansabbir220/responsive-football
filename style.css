@@ -128,10 +128,16 @@ h4{
     height: 400px;
     width: 300px;
 }
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
 footer img{
-    height: auto;
-    width: 250px;
+    width: 484px;
+    height: 110px;
 }
 
 
